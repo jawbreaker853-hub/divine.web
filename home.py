@@ -94,7 +94,7 @@ st.markdown('<div class="hero-subtitle">High-performance, ultra-clean websites b
 
 # Interactive Call to Action Button
 if st.button("Get a Custom Website ⚡"):
-    st.switch_page("pages/Request_a_Quote.py")
+    st.switch_page("Request_a_Quote.py")
 
 st.markdown("<br><br>", unsafe_allow_html=True)
 st.divider()
